@@ -9,4 +9,3 @@
 1. Create A Spotify App using the Spotify API and enter in your client id and client secret
    https://developer.spotify.com/dashboard/applications
 
-<iframe src="https://app.tango.us/app/embed/ee6c2aac-b760-40ab-af68-3995da4e8e4a?iframe" sandbox="allow-scripts allow-top-navigation-by-user-activation allow-popups allow-same-origin" security="restricted" title="Tango Workflow" width="100%" height="100%" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen"></iframe>
