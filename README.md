@@ -1,7 +1,11 @@
 # SongQuizV3
 
 ## Not Working For All Songs
-## Spotify Search API doesn't always return the correct title and artist if you input the youtube title of the song (youtube title is formatted way differently than the spotify one so it has trouble searching) . Sometimes it returns a remix version and the artist is listed as someone else.
+### Spotify Search API doesn't always return the correct title and artist if you input the youtube title of the song (youtube title is formatted way differently than the spotify one so it has trouble searching) . Sometimes it returns a remix version and the artist is listed as someone else.
+### I would fix it but it would require parsing the json file and retrieving the data which would require some manual input which isn't what I wanted in this 
+### project. 
+
+### TL;DR Spotify Search API kinda sucks sometimes 
 
 
 
