@@ -6,7 +6,7 @@
 
 
 ## Requirements: 
-<div><h3>1. <a href="https://app.tango.us/app/workflow/ee6c2aac-b760-40ab-af68-3995da4e8e4a?recording=true" target="_blank">Go to https://developer.spotify.com/dashboard/applications</a></h3>
+<div><h3>1. <a href="https://app.tango.us/app/workflow/ee6c2aac-b760-40ab-af68-3995da4e8e4a?recording=true" target="_blank">Go to https://developer.spotify.com/dashboard/applications</a> and create a Spotify Web App</h3>
 </div>
 
 <div><h3>2. Copy your Client ID</h3>
