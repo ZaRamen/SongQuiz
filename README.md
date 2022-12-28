@@ -6,14 +6,6 @@
 
 
 ## Requirements: 
-
-<h1><a href="https://app.tango.us/app/workflow/ee6c2aac-b760-40ab-af68-3995da4e8e4a?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank">Workflow with Tango and Spotify</a></h1>
-<div><b>Date:</b> December 27, 2022</div>
-<div><b>Author:</b> BlazinFir3</div>
-<div><b>Source:</b> <a href="https://app.tango.us/app/workflow/ee6c2aac-b760-40ab-af68-3995da4e8e4a?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank">Tango</a></div>
-<hr/>
-
-
 <div><h3>1. <a href="https://app.tango.us/app/workflow/ee6c2aac-b760-40ab-af68-3995da4e8e4a?recording=true" target="_blank">Go to https://developer.spotify.com/dashboard/applications</a></h3>
 </div>
 
