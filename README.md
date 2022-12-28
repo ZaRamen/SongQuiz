@@ -6,8 +6,6 @@
 
 
 ## Requirements: 
-1. Create A Spotify App using the Spotify API and enter in your client id and client secret
-   https://developer.spotify.com/dashboard/applications
 
 <h1><a href="https://app.tango.us/app/workflow/ee6c2aac-b760-40ab-af68-3995da4e8e4a?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank">Workflow with Tango and Spotify</a></h1>
 <div><b>Date:</b> December 27, 2022</div>
@@ -43,6 +41,4 @@
 </div>
 
 <hr/>
-<div>
-<a href="https://app.tango.us/app/workflow/ee6c2aac-b760-40ab-af68-3995da4e8e4a?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank"><em>This Workflow was created with Tango.</em></a>
-</div>
+
